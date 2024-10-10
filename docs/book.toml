@@ -1,0 +1,6 @@
+[book]
+authors = ["oricardos"]
+language = "pt"
+multilingual = false
+src = "src"
+title = "Onitheme Docs"
